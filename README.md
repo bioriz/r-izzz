@@ -3,7 +3,7 @@
 - 🌱 Estou aprendendo front end e back end
 - 💞️ Quero colaborar em (Ainda não pensei nisso, rs)
 - 📫 Você me acha aqui: @riziaraujo = Instagram; @bloonny_ = Twitter; https://www.linkedin.com/in/riziaaraujo/ = LinkedIn; Trailblazer Salesforce: https://trailblazer.me/id/riziaaraujo.
-- 
+
 - 👋 Hi, I’m @r-izzz or Rízia
 - 👀 I’m interested in music, biology, science, bioinformatics, data science, learn other tongues, know new cultures, to read...
 - 🌱 I’m currently learning front end, back end
